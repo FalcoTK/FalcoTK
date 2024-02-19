@@ -7,10 +7,10 @@ I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent
 
 <div id="badges">
   <a href="https://medium.com/@RoncasT">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/medium-icon.svg" alt="My Medium Profile"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/medium-icon.svg" alt="My Medium Profile"width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/roncaots?igsh=MXQ0ODU1aW93N3c2NA==">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" alt="My Instagram"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" alt="My Instagram"width="40" height="40"/>
   </a>
 </div>
 
