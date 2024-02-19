@@ -6,8 +6,7 @@ I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent
 ## ⚽ My Social Media : 
 
 ## 🔥MY STATISTICS :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoncasOTN&theme=dark&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoncasOTN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RoncasOTN&theme=transparent&border_radius=3.9)](https://git.io/streak-stats)
   
 ### :hammer_and_wrench: Languages and Tools :
 
