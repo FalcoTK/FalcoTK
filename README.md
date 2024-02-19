@@ -1,4 +1,4 @@
-[![Header](https://github.com/RoncasOTN/RoncasOTN/blob/main/909769.png "Header")]
+![Header](https://github.com/RoncasOTN/RoncasOTN/blob/main/909769.png "Header")
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
