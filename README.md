@@ -1,7 +1,7 @@
 ![Header](https://github.com/RoncasOTN/RoncasOTN/blob/main/9097692.png "Header")
 
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Ronca and I'm a Junior Red Team. I'm from Indonesian. You can find me on [![Twitter][1.2]][1],
+My name is Ronca and I'm a Junior Red Team. I'm from Indonesian.
 
 
 
