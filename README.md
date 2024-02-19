@@ -5,10 +5,9 @@ My name is Ronca and I'm a Junior Red Team. I'm from Indonesian.
 I am now studying red team and attending high school.
 
 ## 😎 Somtime Lazy, Somtime get Too excited 😎
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url">
 
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
