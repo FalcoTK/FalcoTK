@@ -1,4 +1,4 @@
-![Header](https://github.com/RoncasOTN/RoncasOTN/blob/main/9097692.png "Header")
+![Header](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.gUdW4O-g5wXDUNO4ut361AHaCU%26pid%3DApi&f=1&ipt=3e4c28ac039fda27d47adfce63e6a38152848459b73e28c3c13d346bc512b2ac&ipo=images "Header")
 
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent my free time studying Red Team.
