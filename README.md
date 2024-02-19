@@ -6,15 +6,6 @@ I am now studying red team and attending high school.
 
 ## ⚽ My Social Media : 
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/medium?style=for-the-badge&logo=medium&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 ## 🔥MY STATISTICS :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RoncasOTN&theme=dark&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoncasOTN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
