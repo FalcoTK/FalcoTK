@@ -1,8 +1,7 @@
 ![Header](https://github.com/RoncasOTN/RoncasOTN/blob/main/9097692.png "Header")
 
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Ronca and I'm a Junior Red Team. I'm from Indonesian.
-I am now studying red team and attending high school.
+I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent my free time studying Red Team.
 
 ## ⚽ My Social Media : 
 
