@@ -5,7 +5,8 @@ My name is Ronca and I'm a Junior Red Team. I'm from Indonesian.
 I am now studying red team and attending high school.
 
 ## 😎 Somtime Lazy, Somtime get Too excited 😎
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoncasOTN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoncasOTN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
