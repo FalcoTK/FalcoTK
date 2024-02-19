@@ -5,6 +5,15 @@ I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent
 
 ## ⚽ My Social Media : 
 
+<div id="badges">
+  <a href="https://medium.com/@RoncasT">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/medium-icon.svg" alt="My Medium Profile"/>
+  </a>
+  <a href="https://www.instagram.com/roncaots?igsh=MXQ0ODU1aW93N3c2NA==">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram-icon.svg" alt="My Instagram"/>
+  </a>
+</div>
+
 ## 🔥MY STATISTICS :
 [![GitHub Streak](https://streak-stats.demolab.com?user=RoncasOTN&theme=transparent&border_radius=3.9)](https://git.io/streak-stats)
   
