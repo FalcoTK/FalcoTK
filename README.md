@@ -3,7 +3,7 @@
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Ronca and I'm a Junior Red Team. I'm from Indonesian.
 
-## &#x270d; Somtime Lazy, Somtime get Too excited :D
+## 😎; Somtime Lazy, Somtime get Too excited :D
 
 
 ## 🔧 Technologies & Tools
