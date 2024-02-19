@@ -1,5 +1,5 @@
 ![Header](https://github.com/RoncasOTN/RoncasOTN/blob/main/9097692.png "Header")
-
+<img src="https://komarev.com/ghpvc/?username=RoncasOTN&style=flat-square&color=blue" alt=""/>
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Ronca and I'm a Junior Red Team. I'm from Indonesian.
 I am now studying red team and attending high school.
