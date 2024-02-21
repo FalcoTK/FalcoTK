@@ -6,7 +6,7 @@ I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent
 ## ⚽ My Social Media : 
 
 <div id="badges">
-  <a href="https://medium.com/@RoncasT">
+  <a href="https://medium.com/@Falco_TK">
     <img src="https://external-content.duckduckgo.com/ip3/medium.com.ico" alt="My Medium Profile"width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/roncaots?igsh=MXQ0ODU1aW93N3c2NA==">
