@@ -1,7 +1,7 @@
 ![Header](https://styles.redditmedia.com/t5_3glag/styles/bannerBackgroundImage_1ssmhjadjip31.jpg?format=pjpg&s=29601c153c18bf69a9cea1464765a8bf695c41d6 "Header")
 
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent my free time studying Red Team.
+Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of the Red Team.  I studied Red Team during my leisure time.
 
 ## ⚽ My Social Media : 
 
