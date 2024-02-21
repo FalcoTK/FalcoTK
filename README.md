@@ -18,7 +18,7 @@ I'm Ronca, and I'm a junior member of Red Team. My home is in Indonesia. I spent
 </div>
 
 ## 🔥MY STATISTICS :
-[![GitHub Streak](https://streak-stats.demolab.com?user=RoncasOTN&theme=transparent&border_radius=3.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FalcoTK&theme=whatsapp-dark&hide_border=true&border_radius=4&card_width=650)](https://git.io/streak-stats)
   
 ### :hammer_and_wrench: Languages and Tools :
 
