@@ -21,7 +21,7 @@ Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of t
 [![GitHub Streak](https://streak-stats.demolab.com?user=FalcoTK&theme=whatsapp-dark&hide_border=true&border_radius=4&card_width=650)](https://git.io/streak-stats)
 
 ### My LIbrary : [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
-
+<iframe style="width:100%;height:auto;min-width:100px;min-height:50px;" src="https://star-history.com/embed?secret=Z2hwX3lROWpHRjN1bEcwa05hOWxPakhiS0oyd0hJWW4wODJ3WFhMZA==#0gigs3tds80s/0gigs3tds80s&FalcoTK/PyCAI2&Date" frameBorder="0"></iframe>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
