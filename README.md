@@ -22,7 +22,7 @@ Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of t
 
 ### My LIbrary : [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
 
-
+[![Downloads](https://static.pepy.tech/badge/HelloWorldPrint)](https://pepy.tech/project/HelloWorldPrint)
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
