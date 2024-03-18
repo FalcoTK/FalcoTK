@@ -20,9 +20,10 @@ Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of t
 ## 🔥MY STATISTICS :
 [![GitHub Streak](https://streak-stats.demolab.com?user=FalcoTK&theme=whatsapp-dark&hide_border=true&border_radius=4&card_width=650)](https://git.io/streak-stats)
 
-### My LIbrary : [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
+### My LIbrary :
+ - PyCAI2: [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
 
-[![Downloads](https://static.pepy.tech/badge/HelloWorldPrint)](https://pepy.tech/project/HelloWorldPrint)
+ - HelloworldPrint: [![Downloads](https://static.pepy.tech/badge/HelloWorldPrint)](https://pepy.tech/project/HelloWorldPrint)
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
