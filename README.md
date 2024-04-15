@@ -15,6 +15,9 @@ Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of t
   <a hreff="https://twitter.com/Falco_TKs">
     <img src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/Logo-Twitter-Png-1024x1024.png" alt="My Instagram"width="40" height="40"/>
   </a>
+    <a hreff="https://falcotk.github.io/FalcoResume/">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/024/235/881/small/cv-icon-resume-illustration-sign-user-data-symbol-or-logo-vector.jpg" alt="My Instagram"width="40" height="40"/>
+  </a>
 </div>
 
 ## 🔥MY STATISTICS :
