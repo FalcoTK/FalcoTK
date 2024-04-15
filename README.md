@@ -3,23 +3,6 @@
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of the Red Team.  I studied Red Team during my leisure time.
 
-## ⚽ My Social Media : 
-
-<div id="badges">
-   <a href="https://medium.com/@Falco_TK">
-   <img src="https://external-content.duckduckgo.com/ip3/medium.com.ico" alt="My Medium Profile"width="40" height="40"/>
-   </a>
-   <a href="https://www.instagram.com/falxco.tk/">
-   <img src="https://duckduckgo.com/i/e35ea266.png" alt="My Instagram"width="40" height="40"/>
-   </a>
-   <a hreff="https://twitter.com/Falco_TKs">
-   <img src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/Logo-Twitter-Png-1024x1024.png" alt="My Instagram"width="40" height="40"/>
-   </a>
-   <a hreff="https://falcotk.github.io/FalcoResume/">
-   <img src="https://static.vecteezy.com/system/resources/thumbnails/024/235/881/small/cv-icon-resume-illustration-sign-user-data-symbol-or-logo-vector.jpg" alt="My Resume"width="40" height="40"/>
-   </a>
-</div>
-
 
 ## 🔥MY STATISTICS :
 [![GitHub Streak](https://streak-stats.demolab.com?user=FalcoTK&theme=whatsapp-dark&hide_border=true&border_radius=4&card_width=650)](https://git.io/streak-stats)
