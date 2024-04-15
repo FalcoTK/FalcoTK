@@ -20,6 +20,8 @@ Hello, I'm Tokai Falco, but you can call me just Falco. I'm a junior member of t
    </a>
 </div>
 
+<a href="https://falcotk.github.io/FalcoResume/" title=""><img src="" width="100%" style="max-width: 850px;" alt=""></a><br>Provided by <a href="" target="_blank"></a>
+
 ## 🔥MY STATISTICS :
 [![GitHub Streak](https://streak-stats.demolab.com?user=FalcoTK&theme=whatsapp-dark&hide_border=true&border_radius=4&card_width=650)](https://git.io/streak-stats)
 
