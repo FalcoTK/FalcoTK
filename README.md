@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/FalcoTK/FalcoTK/main/20240228_060630_0000.png "Header")
 
 # Hello, Y'all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-At just 15 years old, I've already dedicated nearly three years to coding. Starting with Minecraft mod development at 12, I've since honed my skills in Python, C#, and C++. While proficient in software development, my current focus lies in cybersecurity. As a red teamer, I utilize tools like Metasploit for penetration testing and malware development. My journey reflects a passion for learning and an eagerness to excel in both programming and cybersecurity.
+I've been coding for nearly three years already, and I'm only 15. It all began with Minecraft modding at the age of twelve. Now I'm into Python, C#, and C++. While I am strong at coding, my major focus is cybersecurity. As a red teamer, I utilize tools such as Metasploit to pentesting. I enjoy learning and want to excel in both coding and cybersecurity.
 
 
 ## 🔥MY STATISTICS :
