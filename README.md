@@ -26,3 +26,9 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb logo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+## 👷‍♂️ TODO Project :
+- Kali X (Kali linux Secure version)
+- CsCAI (charater ai api for csharp)
+- JsCAI (charater ai api for JavaScript)
+- CTV (capture The Vunlebelity, its same as CTF but my version :D)
