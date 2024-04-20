@@ -4,15 +4,15 @@
 I've been coding for nearly three years already, and I'm only 15. It all began with Minecraft modding at the age of twelve. Now I'm into Python, C#, and C++. While I am strong at coding, my major focus is cybersecurity. As a red teamer, I utilize tools such as Metasploit to pentesting. I enjoy learning and want to excel in both coding and cybersecurity.
 
 
-## 🔥MY STATISTICS :
+# 🔥MY STATISTICS :
 [![FalcoTK stats](https://github-readme-stats.vercel.app/api?username=falcotk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcotk&layout=compact&theme=dracula)
 
-## 📚My LIbrary :
+# 📚My LIbrary :
  - PyCAI2: [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
 
  - HelloworldPrint: [![Downloads](https://static.pepy.tech/badge/HelloWorldPrint)](https://pepy.tech/project/HelloWorldPrint)
-### :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux logo" width="40" height="40"/>&nbsp;
