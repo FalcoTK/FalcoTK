@@ -5,7 +5,7 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 
 
 # 🔥MY STATISTICS :
-[![FalcoTK stats](https://github-readme-stats.vercel.app/api?username=falcotk&show_icons=true&theme=radical)]
+![FalcoTK stats](https://github-readme-stats.vercel.app/api?username=falcotk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcotk&layout=compact&theme=radical)
 
 # 📚My LIbrary :
