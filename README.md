@@ -8,6 +8,8 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 [![GitHub Streak](https://streak-stats.demolab.com?user=FalcoTK&theme=whatsapp-dark&hide_border=true&border_radius=4&card_width=650)](https://git.io/streak-stats)
 [![FalcoTK stats](https://github-readme-stats.vercel.app/api?username=falcotk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📚My LIbrary :
  - PyCAI2: [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
 
