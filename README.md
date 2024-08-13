@@ -6,7 +6,7 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 
 # 🔥MY STATISTICS :
 [![FalcoTK stats](https://github-readme-stats.vercel.app/api?username=falcotk&show_icons=true&theme=radical)](https://falcotk.github.io/FalcoResume/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcotk&layout=compact&theme=radical)](https://falcotk.github.io/FalcoResume/)
+
 
 # 📚My LIbrary :
  - PyCAI2: [![Downloads](https://static.pepy.tech/badge/pycai2)](https://pepy.tech/project/pycai2)
@@ -26,6 +26,6 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb logo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falcotk&layout=compact&theme=radical)](https://falcotk.github.io/FalcoResume/)
 # 🎩 contact me:
 ## 📧 falco@falcotk.space
