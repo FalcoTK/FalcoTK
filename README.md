@@ -29,9 +29,3 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 
 # 🎩 contact me:
 ## 📧 falco@falcotk.space
-
-## 👷‍♂️ TODO Project :
-- Kali X (Kali linux Secure version)
-- CsCAI (charater ai api for csharp)
-- JsCAI (charater ai api for JavaScript)
-- CTV (capture The Vunlebelity, its same as CTF but my version :D)
