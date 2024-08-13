@@ -6,10 +6,7 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 <div align="center">
     <br><br>
 <pre>
-    💼 Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code 
+Tokai Teio 🐴
 </pre>
 <br><br>
 </div>
