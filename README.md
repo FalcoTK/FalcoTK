@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/FalcoTK/FalcoTK/main/minimal-tokai-teio-cute-anime-girl.jpg "header")
 <div align="center">
 <pre>
-Tokai Teio 🐴
+Tokai Teio 🐴 ♥️
 </pre>
 <br><br>
     
