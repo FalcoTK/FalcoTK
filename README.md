@@ -1,5 +1,4 @@
 ![Header](https://raw.githubusercontent.com/FalcoTK/FalcoTK/main/minimal-tokai-teio-cute-anime-girl.jpg "header")
-
 <div align="center">
     <br><br>
 <pre>
@@ -12,7 +11,7 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 
 # MY STATISTICS 
 [![FalcoTK stats](https://github-readme-stats.vercel.app/api?username=falcotk&show_icons=true&theme=radical)](https://falcotk.github.io/FalcoResume/)
-</div>
 
-# 🎩 contact me:
+# contact me
 ## 📧 falco@falcotk.space
+</div>
