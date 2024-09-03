@@ -7,7 +7,7 @@ Tokai Teio 🐴 ♥️
     
 # 💫 About Me:
 I've been coding for nearly three years already, and I'm only 15. It all began with Minecraft modding at the age of twelve. Now I'm into Python, C#, and C++. While I am strong at coding, my major focus is cybersecurity. As a red teamer, I utilize tools such as Metasploit to pentesting. I enjoy learning and want to excel in both coding and cybersecurity.
-
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DCjeH7pEGa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/falxco.tk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Falco_TKs) 
@@ -23,4 +23,4 @@ I've been coding for nearly three years already, and I'm only 15. It all began w
 [![](https://visitcount.itsvg.in/api?id=FalcoTK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-</div>
+
