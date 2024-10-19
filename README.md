@@ -3,9 +3,6 @@
 <pre>
 Tokai Teio 🐴 ♥️
 </pre>
-<br>
-    
-
 </div>
 
 ## 🌐 Socials:
