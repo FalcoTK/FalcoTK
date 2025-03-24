@@ -56,9 +56,9 @@
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code></td>
 		</tr>
 	</table>
-</div>
+
 
 
 ## 📊 GitHub Stats:
 ![Falco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FalcoTK&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-
+</div>
