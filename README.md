@@ -13,3 +13,6 @@ Specialized in Python, FastAPI, and backend architecture, I also explore fronten
 🔹 **DevOps:** Docker, Proxmox, CI/CD  
 
 📫 Feel free to connect and explore my repositories!
+
+## Stats:
+![Falco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FalcoTK&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
