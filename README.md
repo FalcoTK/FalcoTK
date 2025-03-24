@@ -19,7 +19,7 @@ Specialized in Python, FastAPI, and backend architecture, I also explore fronten
 
 ## Tech Stacks:
 
-    <div align="center">
+<div align="center">
       <code
         ><img
           width="30"
