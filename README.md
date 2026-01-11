@@ -17,11 +17,6 @@
 - **Security:** Still learning — but loving every minute
 
 
-### 📊 GitHub Stats
-
-![Falco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FalcoTK&theme=transparent&hide_border=true&show_icons=true)
-
-
 ### ☕ About me
 - 🔭 Always tinkering with new backend architectures & tools
 - 🧪 Playing with CTFs and beginner red team labs
